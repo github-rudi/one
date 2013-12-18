@@ -43,7 +43,7 @@ set -e -x
 defaultrole=init
 
 # Git repository to clone
-puppet_source=https://github.com/naturalis/puppet.git
+puppet_source=https://github.com/github-rudi/one.git
 
 #
 # Start of code
