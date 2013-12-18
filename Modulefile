@@ -1,4 +1,4 @@
-name    'rudizbroekhuizen-one'
+name    'rudibroekhuizen-one'
 version '0.1.0'
 source ''
 author ''
